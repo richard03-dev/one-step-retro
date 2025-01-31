@@ -12,7 +12,7 @@ A sample jupyter notebook showing one step retrosyntheic suggestions.
 
 2. Navigate to the extracted folder in your IDe.
 
-3. Open `one-step-retro-sample.ipynb` as this is the notebook you will use.
+3. Open `one_step_retro_sample.ipynb` as this is the notebook you will use.
 Install dependencies (if applicable):
    - **pandas**: `pip install pandas`  
    - **numpy**: `pip install numpy`  
