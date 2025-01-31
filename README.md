@@ -12,11 +12,12 @@ A sample jupyter notebook showing one step retrosyntheic suggestions.
 
 2. Navigate to the extracted folder in your IDe.
 
-3. Install dependencies (if applicable):
+3. Open `one-step-retro-sample.ipynb` as this is the notebook you will use.
+Install dependencies (if applicable):
    - **pandas**: `pip install pandas`  
    - **numpy**: `pip install numpy`  
    - **rdkit**: `pip install rdkit`  
    - **rdchiral**: `pip install rdchiral`  
    - **IPython** (for `IPython.display.SVG`): `pip install ipython`
 
-4. You should now be able to run the jupyter notebook. It will prompt you with the deseried molecule, and output all the reactions to obtain your desired molecule.
+6. You should now be able to run the jupyter notebook. It will prompt you with the deseried molecule, and output all the reactions to obtain your desired molecule.
